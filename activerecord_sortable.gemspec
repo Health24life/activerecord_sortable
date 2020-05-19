@@ -18,5 +18,5 @@ Gem::Specification.new do |s|
   s.test_files = Dir.glob('spec/**/*')
   s.require_path = 'lib'
 
-  s.add_dependency 'rails', '~> 5'
+  s.add_dependency 'rails', '~> 6'
 end
